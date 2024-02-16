@@ -1,5 +1,7 @@
 # Social Media Marketing World 2024
 
+[2024 Online Schedule](https://training.socialmediaexaminer.com/schedule/?_gl=1*1n6vmwf*_gcl_au*MTE4Mzk0Mzk4My4xNzA4MDYxMDI3)
+
 ## Schedule
 
 Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
