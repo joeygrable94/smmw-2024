@@ -1,8 +1,10 @@
-# Schedule
+# Social Media Marketing World 2024
+
+## Schedule
 
 Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
 
-## Sunday, February 18, 2024
+### Sunday, February 18, 2024
 
 | Start   | End    | Event                                    |
 | ------- | ------ | ---------------------------------------- |
@@ -13,7 +15,7 @@ Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
 | 2:00pm  | 3:30pm | Workshops (ACCESS)                       |
 | 4:00pm  | 5:30pm | Workshops (ACCESS)                       |
 
-## Monday, February 19, 2024
+### Monday, February 19, 2024
 
 | Start   | End     | Event                         |
 | ------- | ------- | ----------------------------- |
@@ -28,7 +30,7 @@ Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
 | 5:00pm  | 6:15pm  | Keynote                       |
 | 8:30pm  | 11:30pm | VIP Networking Party (ACCESS) |
 
-## Tuesday, February 20, 2024
+### Tuesday, February 20, 2024
 
 | Start   | End     | Event    |
 | ------- | ------- | -------- |
