@@ -60,17 +60,18 @@ Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
 
 ### Events: Monday, February 19, 2024
 
-| Start   | Type    | Event                                                                                                                        |
-| ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 8:00am  | KEYNOTE | The Future of Marketing                                                                                                      |
-| 9:45am  | SESSION | Scarcity Secrets: Influence People and Increase Conversions                                                                  |
-| 11:00am | SESSION | The Marketing Singularity: How LLMs Changed Marketing                                                                        |
-| 12:15pm | SESSION | Instagram Content Strategies That Convert                                                                                    |
-| 1:30pm  | SESSION | 50+ Ways to Quickly Repurpose Any Content With AI Tools                                                                      |
-| 2:45pm  | SESSION | Advanced Acquisition Strategy: Grow Your Service Revenue OR Understanding the LinkedIn Algorithm for Maximum Business Growth |
-| 4:00pm  | SESSION | Advanced Facebook Ad Analytics: Letting Data Improve Your Ad Results                                                         |
-| 5:00pm  | KEYNOTE | Digital Doppelgänger: How to Supercharge Your Content and Your Work Using the Magic of AI                                    |
-| 08:30pm | PARTY   | VIP Networking Party (ACCESS)                                                                                                |
+| Start   | Type    | Event                                                                                     |
+| ------- | ------- | ----------------------------------------------------------------------------------------- |
+| 8:00am  | KEYNOTE | The Future of Marketing                                                                   |
+| 9:45am  | SESSION | Scarcity Secrets: Influence People and Increase Conversions                               |
+| 11:00am | SESSION | The Marketing Singularity: How LLMs Changed Marketing                                     |
+| 12:15pm | SESSION | Instagram Content Strategies That Convert                                                 |
+| 1:30pm  | SESSION | 50+ Ways to Quickly Repurpose Any Content With AI Tools                                   |
+| 2:45pm  | SESSION | Advanced Acquisition Strategy: Grow Your Service Revenue                                  |
+| 2:45pm  | SESSION | Understanding the LinkedIn Algorithm for Maximum Business Growth                          |
+| 4:00pm  | SESSION | Advanced Facebook Ad Analytics: Letting Data Improve Your Ad Results                      |
+| 5:00pm  | KEYNOTE | Digital Doppelgänger: How to Supercharge Your Content and Your Work Using the Magic of AI |
+| 08:30pm | PARTY   | VIP Networking Party (ACCESS)                                                             |
 
 ### Events: Tuesday, February 20, 2024
 
