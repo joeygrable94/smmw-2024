@@ -70,6 +70,7 @@ Food available for purchase from 11:00am to 2:00pm on Monday and Tuesday.
 | 2:45pm  | SESSION | Advanced Acquisition Strategy: Grow Your Service Revenue OR Understanding the LinkedIn Algorithm for Maximum Business Growth |
 | 4:00pm  | SESSION | Advanced Facebook Ad Analytics: Letting Data Improve Your Ad Results                                                         |
 | 5:00pm  | KEYNOTE | Digital Doppelgänger: How to Supercharge Your Content and Your Work Using the Magic of AI                                    |
+| 08:30pm | PARTY   | VIP Networking Party (ACCESS)                                                                                                |
 
 ### Events: Tuesday, February 20, 2024
 
